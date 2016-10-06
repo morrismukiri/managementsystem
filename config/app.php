@@ -163,6 +163,8 @@ return [
         Illuminate\Validation\ValidationServiceProvider::class,
         Illuminate\View\ViewServiceProvider::class,
 
+        Serverfireteam\Panel\PanelServiceProvider::class,
+
         /*
          * Package Service Providers...
          */
